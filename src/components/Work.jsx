@@ -26,18 +26,18 @@ const works = [
     tags: ["Java", "API", "Server"],
     projectLink: "https://github.com/GeetaHade/Chat_application.git",
   },
-  // {
-  //   imgSrc: "/images/project5.jpg",
-  //   title: "Online Code Editor",
-  //   tags: ["React", "Bootstrap", "Codemirror", "HTML", "CSS", "JS"],
-  //   projectLink: "https://code-editor-ten-inky.vercel.app/",
-  // },
-  // {
-  //   imgSrc: "/images/project6.jpg",
-  //   title: "Android Weather App",
-  //   tags: ["Android", "Java", "API", "JSON"],
-  //   projectLink: "https://github.com/nishant-k02/Android-Weather-App.git",
-  // },
+  {
+    imgSrc: "/images/project6.jpg",
+    title: "Weather App",
+    tags : ["React", "Bootstrap", "Axios", "SQLite", "HTML", "CSS", "JS", "Express", "Node.js", "REST-API"],
+    projectLink: "https://github.com/GeetaHade/Weather-App.git",
+  },
+  {
+    imgSrc: "/images/project5.jpg",
+    title: "ThinkShare",
+    tags:["React", "Node.js", "Express", "Material-UI", "Elasticsearch", "OpenAI API", "REST API", "JS"],
+    projectLink: "https://github.com/GeetaHade/School-Blogging-Platform.git",
+  },
 ];
 
 const Work = () => {
